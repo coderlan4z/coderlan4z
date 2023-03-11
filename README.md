@@ -31,7 +31,6 @@
   
 </div>
 
-<div align="center">
-![snake gif](https://github.com/FernandoCsm-Knight/FernandoCsm-Knight/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+
 
