@@ -3,11 +3,11 @@
 
 <section>
    <br/>
-   <div align="center">
+   <div align="left">
       <img style="hight: 100%;" src="https://github-readme-stats.vercel.app/api?username=lan4z&show_icons=true&theme=tokyonight"/>
    </div>
-   <br/>
-   <div align="center">
+
+   <div align="right">
       <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lan4z&layout=compact&theme=tokyonight"/>
    </div>
    <br/>
