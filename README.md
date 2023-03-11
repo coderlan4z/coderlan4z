@@ -1,6 +1,19 @@
 ### Opa :)
 ## I am Guilherme Lana, a Brazilian Computer Science student.
 
+<section>
+   <br/>
+   <div align="center">
+      <img style="hight: 100%;" src="https://github-readme-stats.vercel.app/api?username=FernandoCsm-Knight&show_icons=true&theme=tokyonight"/>
+   </div>
+   <br/>
+   <div align="center">
+      <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoCsm-Knight&layout=compact&theme=tokyonight"/>
+   </div>
+   <br/>
+</section>
+
+<section>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
