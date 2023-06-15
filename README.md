@@ -29,7 +29,8 @@
   <a href="https://www.linkedin.com/in/guilhermelana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:contato.guilhermelana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-   # GitHub Action for generating a contribution graph with a snake eating your contributions.
+
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
 
@@ -83,9 +84,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
-</div>
-
-
-
-
