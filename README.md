@@ -1,5 +1,4 @@
-### Opa :)
-## I am Guilherme Lana, a Brazilian Computer Science student.
+
 
 <section>
    <br/>
