@@ -13,7 +13,7 @@
 <section>
 
 <div align="center"><br>
-         <p>Learning</p>
+         <h1>Learning</h1>
          <img style="height: 50px" alt="React Native Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
          <img style="height: 50px" alt="Node.js Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
          <img style="height: 50px" alt="JavaScript Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -23,7 +23,6 @@
          <img style="height: 50px" alt="Git Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
    </div>
-  ##
  
 <div align="center"> 
   <a href="https://instagram.com/__guilhermelana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
