@@ -13,7 +13,7 @@
 <section>
 
 <div align="center"><br>
-         <h1>Learning</h1>
+         <p style="font-weight: bold">Learning</p>
          <br/>
          <img style="height: 50px" alt="React Native Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
          <img style="height: 50px" alt="Node.js Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
