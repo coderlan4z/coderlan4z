@@ -4,7 +4,7 @@
 <section>
    <br/>
    <div align="center">
-      <img style="hight: 100%;" src="https://github-readme-stats.vercel.app/api?username=lan4z&show_icons=true&theme=tokyonight"/>
+      <img style="hight: 100%;" src="https://github-readme-stats.vercel.app/api?username=coderlan4z&show_icons=true&theme=tokyonight"/>
    </div>
 
    <br/>
