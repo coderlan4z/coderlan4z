@@ -21,6 +21,8 @@
          <img style="height: 50px" alt="C++ Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
          <img style="height: 50px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
          <img style="height: 50px" alt="Git Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+         <img style="height: 50px" alt="Spark Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />   
+         <img style="height: 50px" alt="MySQL Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
    </div>
 <div align="center"> 
    <br/>
