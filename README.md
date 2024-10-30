@@ -1,5 +1,5 @@
 ### Opa :)
-## I am Guilherme Lana, a Brazilian Computer Science student.
+## I am Guilherme Lana, a Brazilian Software Engineering student
 
 <section>
    <br/>
