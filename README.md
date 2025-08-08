@@ -21,6 +21,7 @@
          <img style="height: 50px" alt="Spark Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />   
          <img style="height: 50px" alt="MySQL Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
          <img style="height: 50px" alt="PostgreSQL Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+         <img style="height: 50px" alt="Flutter Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
    </div>
 <div align="center"> 
    <br/>
